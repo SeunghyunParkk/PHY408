@@ -1,0 +1,5 @@
+Cushing OK WTI Spot Price FOB
+https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RWTC&f=M
+01:01:15 GMT-0400
+Data Source: Thomson Reuters
+1986-01 ~ 2022-02
